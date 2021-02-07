@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>9E Group 3 Scaffold 1</title>
+  </head>
+ 
+ <body BGCOLOR=#ff6347>
+ <font face="Times New Roman">
+  <h2><b>Today and Tomorrow</b></h2>
+  <br>
+  We have noticed that most citizens of the Philippines are currently suffering problems from the recent 
+  pandemic and it is affecting the Filipino citizens mentally and physically. Not only the Philippines has been 
+  suffering from this prevalent pandemic but the virus has been out widespread all around the globe. One of 
+  the issues that our country is facing today is the increasing number of crimes and the corruption undertaken 
+  by the government. People nowadays tend to prioritize themselves first without them realizing that others 
+  need help. Instead of helping each other, we blame each other, we pressure each other by deceiving 
+  ourselves with lies, we do not unite as one. Hence chaos and discord occur, problems and issues pile up and 
+  the country is in the brink of panic. How can we conquer these problems if we don’t bond together? The 
+  straightforward answer to this question is that it can’t, it will only worsen the situation we are going in 
+  through right now. Government Officials firstly prioritized their wants, their selfishness, and most 
+  especially their desires. Nonetheless, if you can’t afford money, you can’t afford justice. If these deeds were 
+  to continue, Philippines won’t be a better country for us at all and the future of us, Filipinos, would suffer 
+  too.
+  <br>
+ <p align="center">Remember, your Future is created by what you do <b>today</b> not <b> tomorrow.</b>
